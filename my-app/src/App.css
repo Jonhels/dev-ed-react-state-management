@@ -1,5 +1,17 @@
+*{
+  background-color: black;
+  color: white;
+}
+
 .App {
   text-align: center;
+}
+
+.nav{
+  border-bottom: white 1px solid;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .App-logo {
